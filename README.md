@@ -1,4 +1,5 @@
 # Enviro pHAT
+# quick hack no functonal changes. djr 29Apr21
 
 https://shop.pimoroni.com/products/enviro-phat
 
